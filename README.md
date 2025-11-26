@@ -1,19 +1,5 @@
-# Content Ops Starter
-
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
-
-Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
-
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
-
-## Table of Contents
-
-- [Deploying to Netlify](#deploying-to-netlify)
-- [Develop with Netlify Visual Editor Locally](#develop-with-netlify-visual-editor-locally)
-- [Building for production](#building-for-production)
-- [Setting Up Algolia Search](#setting-up-algolia-search)
-- [Next Steps](#next-steps)
-- [Support](#support)
+# Portfolio
+**⚡ View demo:** [https://jordan-petersen-portfolio.app/](https://jordan-petersen-portfolio.netlify.app/)
 
 ## Deploying to Netlify
 
